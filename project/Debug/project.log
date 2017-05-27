@@ -1,0 +1,83 @@
+﻿Build started 4/20/2015 1:13:30 AM.
+     1>Project "C:\Users\scsc\Desktop\Visual Std\project\project\project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Visual Studio 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(50): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(57): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(66): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(93): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(96): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\visual studio 2012\vc\include\stdlib.h(909) : see declaration of 'itoa'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(109): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(115): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(125): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(149): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(155): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(184): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(195): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(211): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(274): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(345): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(377): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2012\vc\include\string.h(191) : see declaration of 'strncpy'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(390): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2012\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(486): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(402): warning C4101: 'presence' : unreferenced local variable
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(402): warning C4101: 'data' : unreferenced local variable
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(501): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\visual studio 2012\vc\include\stdlib.h(909) : see declaration of 'itoa'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(549): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(568): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(576): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(585): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(598): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(611): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(624): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(642): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(653): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(668): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(679): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(688): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(546): warning C4101: 'tt' : unreferenced local variable
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(716): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\visual studio 2012\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(827): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(823): warning C4102: 'again' : unreferenced label
+     1>c:\users\scsc\desktop\visual std\project\project\source.cpp(1098): warning C4102: 'Default' : unreferenced label
+       Link:
+         D:\Visual Studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\scsc\Desktop\Visual Std\project\Debug\project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\scsc\Desktop\Visual Std\project\Debug\project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\scsc\Desktop\Visual Std\project\Debug\project.lib" /MACHINE:X86 Debug\Source.obj
+         project.vcxproj -> C:\Users\scsc\Desktop\Visual Std\project\Debug\project.exe
+     1>Done Building Project "C:\Users\scsc\Desktop\Visual Std\project\project\project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.12

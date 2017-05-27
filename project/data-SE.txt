@@ -1,0 +1,200 @@
+=
+1
+Syed RafaySE
+Mukhtar Shah
+=
+2
+Ebadullah QureshiSE
+Asif ManzoorQureshi
+=
+3
+Abdul Moiz KhanSE
+Muzammil Khan
+=
+4
+Hassan AzamSE
+syed Azam
+=
+5
+Muhammad AliSE
+Syed shah
+=
+6
+Hamza Khan SE
+Jameel Khan
+=
+7
+Faiza Akhbar
+syed Akhbar
+=
+8
+Jazib Kambo
+Farhan Kambo
+=
+9
+Abdul Fatir
+Abdul Hasan
+=
+10
+Javeria Farooq
+Farooq Hasan
+=
+11
+Amad khan
+Muhammad khan
+=
+12
+Shabana Suliman
+Syed Suliman
+=
+13
+Kulsoom Asif
+Muhammad Asif
+=
+14
+Ammara Khan
+Shahab Khan
+=
+15
+Zohaib Ansari
+Irshad Ansari
+=
+16
+Adil Bhatti
+Sarfaraz Bhatti
+=
+17
+Ahmed Faraz
+Faraz Ahmed
+=
+18
+Shabbir Usmani
+Syed Usmani
+=
+19
+Amna Hasan
+Abdul Hasan
+=
+20
+Sadaf Basit
+Abdul Basit
+=
+21
+Abdul Rafay
+Abdul Malik
+=
+22
+Hafsa khan
+Ahmed khan
+=
+23
+Zunaira Khan
+Muhammad Shoaib
+=
+24
+Anum Zulfiqar
+Syed zulfiqar
+=
+25
+Irfan rustami
+Daniyal rustami
+=
+26
+Saad Jadoon
+Fahad Jadoon
+=
+27
+Zain Hussain
+Zakir Hussain
+=
+28
+Bilal Butt
+Muhammad Butt
+=
+29
+Hina Khalid
+Muhammad Khalid
+=
+30
+Adnan Shabbir
+Syed Shabbir
+=
+31
+Wajiha Jamal
+Abdul Jamal
+=
+32
+Hira Jalal
+Jalal Khan
+=
+33
+Hassan Khan
+Abdul Quddus
+=
+34
+Muhammad Fazal
+Muhammad Ahmed
+=
+35
+Alina khan
+zohaib khan
+=
+36
+Faiq ali
+Muhammad ali
+=
+37
+Haris Shafiq
+Muhammad Shafiq
+=
+38
+Erum Arif
+Muhammad Arif
+=
+39
+Muhammad Tahir
+Muhammad Talal
+=
+40
+Aiman Hassan
+Abdul Hassan
+=
+41
+Abdul Saboor
+Abdul Fatir
+=
+42
+Munnaza Bashir
+Abdul Bashir
+=
+43
+Wasim Akhter
+Shoaib Akhter
+=
+44
+Rida Azeemi
+Bilal Azeemi
+=
+45
+Muhammad Ibrahim
+Muhammad Taimour
+=
+46
+Madiha Gull
+Umar Gull
+=
+47
+Aneela Waqas
+Rana Waqas
+=
+48
+Muhammad Taha
+Muhammad Ali
+=
+49
+Mohsin Rajput
+Ikram Rajput
+=
+50
+Naseem Ghazi
+Syed Ghazi
